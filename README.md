@@ -1,3 +1,3 @@
 # CRUD Registration
 
-API of Registration Custumers with CRUD!
+API of Registration Customers with CRUD!
